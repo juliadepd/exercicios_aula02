@@ -1,0 +1,80 @@
+.div_vinho{
+    width: 70%;
+    height: 50vh;
+    background-color: rgb(121, 66, 88);
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 65px;
+}
+
+.div_branca{
+    background-color: white;
+    width: 80%;
+    height: 60%;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(10, 10, 73);
+    color: blue;
+    margin-top: 45px;
+    margin-left: 80px
+}
+
+.frase{
+    font-family: Arial;
+    font-weight: 1000px;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 75px;
+}
+
+.azul{
+    margin-left: 260px;
+    height: 30px;
+    width: 65%;
+    background-color: blue;
+}
+
+.roxa{
+    margin-left: 35%;
+    background-color: purple;
+    height: 30px;
+    width: 32.5%
+}
+
+.verde{
+    margin-left: 25%;
+    background-color: green;
+    height: 30px;
+    width: 52.5%;
+}
+
+.amarela{
+    margin-left: 30%;
+    background-color: green;
+    height: 30px;
+    width: 42.5%;
+    background-color: yellow;
+    margin-bottom: 60px;
+}
+
+.vermelha{
+    width: 43.75%;
+    background-color: red;
+    height: 30px;
+    float:left
+}
+
+.aqua{
+    width: 22.5%;
+    background-color: aqua;
+    height: 30px;
+    float: left;
+}
+
+.verde_clara{
+    width: 33.75%;
+    background-color: rgb(12, 197, 12);
+    height: 30px;
+    float: left
+}
